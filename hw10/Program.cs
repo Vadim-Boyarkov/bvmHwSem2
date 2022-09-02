@@ -3,7 +3,6 @@
 // 456 -> 5
 // 782 -> 8
 // 918 -> 1
-
 Console.WriteLine("Введите трёхзначное число");
 int NumberA = Convert.ToInt32(Console.ReadLine());
 if(NumberA <100 || NumberA > 999)
