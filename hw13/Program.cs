@@ -12,7 +12,7 @@ if(NumberA < 100)
     Console.WriteLine("третьей цифры нет");
 }
 else
-while(NumberA > 1000)
+while(NumberA > 999)
 {
     NumberA = NumberA / 10;
 }
